@@ -1,0 +1,11 @@
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/bin/Debug/netcoreapp2.2/Linq.deps.json
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/bin/Debug/netcoreapp2.2/Linq.runtimeconfig.json
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/bin/Debug/netcoreapp2.2/Linq.runtimeconfig.dev.json
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/bin/Debug/netcoreapp2.2/Linq.dll
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/bin/Debug/netcoreapp2.2/Linq.pdb
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/obj/Debug/netcoreapp2.2/Linq.csprojAssemblyReference.cache
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/obj/Debug/netcoreapp2.2/Linq.csproj.CoreCompileInputs.cache
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/obj/Debug/netcoreapp2.2/Linq.AssemblyInfoInputs.cache
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/obj/Debug/netcoreapp2.2/Linq.AssemblyInfo.cs
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/obj/Debug/netcoreapp2.2/Linq.dll
+/Users/josecisneros/Documents/Projects/C#/Linq/Linq/obj/Debug/netcoreapp2.2/Linq.pdb
